@@ -2,1206 +2,2680 @@
     {
         "category_id": 1,
         "category_name": "gear",
+        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/16460642103402.jpeg",
         "category_products": {
-            "headset": [
-                {
-                    "id": 1,
-                    "description": "Headset Gamer Fallen Morcego LightPro Preto",
-                    "price": "R$643,33",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668782795283_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Headset Gamer Fallen Morcego Vermelho",
-                    "price": "R$643,33",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668998954400_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Headset Gamer Fallen Morcego Preto",
-                    "price": "R$643,33",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16675896697741_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Headset Gamer Fallen Morcego Rosa",
-                    "price": "R$643,33",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16316530189611_thumb.jpeg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-
-                {
-                    "id": 5,
-                    "description": "Headset Gamer Fallen Eco Rgb - Preto",
-                    "price": "R$299,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668891083977_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Headset Gamer Fallen Eco Rgb - Rosa",
-                    "price": "R$299,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668926787782_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Headset Gamer Fallen Morcego Roxo",
-                    "price": "R$643,33",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16518626853041_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": false
-                }
-            ],
-            "mouse": [
-                {
-                    "id": 1,
-                    "description": "Mouse Gamer Fallen Lobo Pro",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$349,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168486679_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Mouse Gamer Ultraleve Fallen F75 Black",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998854438_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Mouse Gamer Ultraleve Fallen F70 Black",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16669008606246_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Mouse Gamer Ultraleve Fallen F65 Mars",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168441488_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Mouse Gamer Ultraleve Fallen F65 Tempest",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168463610_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Mouse Gamer Ultraleve Fallen F65 Mercury",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168453433_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Mouse Gamer Ultraleve Fallen F75 Pink",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998875496_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 8,
-                    "description": "Mouse Gamer Fallen Lobo Eco Preto",
-                    "price": "R$199,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16687728286048_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 9,
-                    "description": "Mouse Gamer Ultraleve Fallen F70 Tempest",
-                    "price": "R$555,44",
-                    "price_with_discount": "R$399,90",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16607376355532_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": false
-                }
-            ],
-            "mouse_bungee": [
-                {
-                    "id": 1,
-                    "description": "Mouse Bungee Fallen Tucano Preto",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Mouse Bungee Fallen Tucano Branco",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168415103_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Mouse Bungee Fallen Tucano Rosa",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168413951_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Mouse Bungee Fallen Tucano Vermelho",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008579796_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Mouse Bungee Fallen Tucano Azul",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168391633_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Mouse Bungee Fallen Eco",
-                    "price": "R$55,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008536515_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }
-            ],
-            "mousepad": [
-                {
-                    "id": 1,
-                    "description": "Mouse Bungee Fallen Tucano Preto",
-                    "price": "R$132,22",
-                    "price_with_discount": "R$79,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Mousepad Gamer Fallen Cs:go Ct/tr - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095359695_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095355855_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Mousepad Gamer Fallen Cs:go Fade - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095334118_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095338038_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Mousepad Gamer Fallen Cs:go Ezpz - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095324352_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095316099_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Mousepad Gamer Fallen Cs:go Slaughter - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095307295_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095297494_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Mousepad Gamer Fallen Cs:go Ct/tr - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095287691_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095261242_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Mousepad Gamer Fallen Cs:go Eco Medusa Sem Costura - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573166818929_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573166813984_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 8,
-                    "description": "Mousepad Gamer Fallen Cs:go Eco Medusa Sem Costura - Speed+ Pequeno",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573176355531_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573176354794_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 9,
-                    "description": "Mousepad Gamer Fallen Cs:go Ct/tr Rgb - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637885565151_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637885567010_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 10,
-                    "description": "Mousepad Gamer Fallen Cs:go Medusa Rgb - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637887837534_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637887816771_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 11,
-                    "description": "Mousepad Gamer Fallen Cs:go Medusa Rgb - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637886692517_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637886716469_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 12,
-                    "description": "Mousepad Gamer Fallen Dota2 Sagan Rgb - Speed++ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014959_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014361_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 13,
-                    "description": "Mousepad Gamer Fallen Dota2 Omnislash Rgb - Speed++ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103181963_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103174381_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 14,
-                    "description": "Mousepad Gamer Fallen Dota2 Eco Sagan Sem Costura - Speed++ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418999250_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418991118_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 15,
-                    "description": "Mousepad Gamer Fallen Dota2 Omnislash Rgb - Speed++ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103153125_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103146852_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 16,
-                    "description": "Mousepad Gamer Fallen Dota2 Sagan Rgb - Speed++ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103125174_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103101414_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 17,
-                    "description": "Mousepad Gamer Fallen Dota2 Eco Omnislash Sem Costura - Speed++ Peeno",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103079581_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103073142_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 18,
-                    "description": "Mousepad Gamer Fallen Dota2 Omnislash - Speed++ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679222791902_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103056951_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 19,
-                    "description": "Mousepad Gamer Fallen Dota2 Sagan - Speed++ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673066928353_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673066945603_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 20,
-                    "description": "Mousepad Gamer Fallen Dota2 Sagan - Speed++ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418979497_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418972342_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 21,
-                    "description": "Mousepad Gamer Fallen Dota2 Eco Omnislash Sem Costura - Speed++ Esndido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103032680_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103037644_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 22,
-                    "description": "Mousepad Gamer Fallen Dota2 Omnislash - Speed++ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103029213_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103017118_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 23,
-                    "description": "Mousepad Gamer Fallen Dota2 Waveform - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102992813_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102983254_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 24,
-                    "description": "Mousepad Gamer Fallen Dota2 Dragon Set - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102941812_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102936153_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 25,
-                    "description": "Mousepad Gamer Fallen Dota2 Ancient - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911508_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911306_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 26,
-                    "description": "Mousepad Gamer Fallen Dota2 Lunar Set - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102906343_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102899584_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 27,
-                    "description": "Mousepad Gamer Fallen Dota2 Lunar Set - Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102874009_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102878199_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 28,
-                    "description": "Mousepad Gamer Fallen Dota2 Dragon Set - Speed+ Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102854632_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102843821_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 29,
-                    "description": "Mousepad Gamer Fallen Ace Rgb Speed+ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637807149538_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637807187021_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 30,
-                    "description": "Mousepad Gamer Fallen Ace Rgb - Control Estendido",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679402907499_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16679402924517_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 31,
-                    "description": "Mousepad Gamer Fallen Pantera V2 - Cordura Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16595424326790_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16595424329661_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 32,
-                    "description": "Mousepad Gamer Fallen Pantera V2 - Bk Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095253091_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095243763_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 33,
-                    "description": "Mousepad Gamer Fallen Eco Sakura - Speed++ Pequenoo SC",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450921445_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450913079_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 34,
-                    "description": "Mousepad Gamer Fallen Eco Sakura - Speed++ Grande SC",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450904732_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450894386_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 35,
-                    "description": "Mousepad Gamer Fallen Candy Rgb - Speed++ Médio",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637859813693_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637859809837_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 36,
-                    "description": "Mousepad Gamer Fallen Candy Rgb - Speed++ Grande",
-                    "price": "R$159,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637872509334_thumb.jpg",
-                    "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637872488730_thumb.jpg",
-                    "in_stock": true
-                }
-            ],
-            "tapete": [
-                {
-                    "id": 1,
-                    "description": "Tapete Gamer Fallen Angel",
-                    "price": "R$587,78",
-                    "price_with_discount": "R$399,00",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16540010813451_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }
-            ],
-            "teclado": [
-                {
-                    "id": 1,
-                    "description" : "Teclado Gamer Híbrido-Mecânico Fallen Eco",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830742934_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830749870_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Blue",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714499911_thumb.jpeg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714497436_thumb.jpeg",
-                    "in_stock": true
-
-                },
-                {
-                    "id": 3,
-                    "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Black",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168381871_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168389052_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Red",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239099763_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239085226_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description" : "TECLADO GAMER MECÂNICO FALLEN FALCÃOZINHO - SWITCH BLUE",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683336_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683296_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH BLUE",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130758886_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130753377_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH BLACK",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950914572_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950902671_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 8,
-                    "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH RED",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924456482_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924458287_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 9,
-                    "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Blue",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010799605_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010791956_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 10,
-                    "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Black",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898896298_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898882859_thumb.jpg",
-                    "in_stock": true
-                },
-                {
-                    "id": 11,
-                    "description" : "Teclado Gamer Mecânico Fallen Falcãozinho - Switch Black",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576511024_thumb.jpeg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16606872429954_thumb.jpg",
-                    "in_stock": false
-                },
-                {
-                    "id": 12,
-                    "description" : "Teclado Gamer Mecânico Fallen Falcãozinho - Switch Red",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576675705_thumb.jpeg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16325090819634_thumb.jpg",
-                    "in_stock": false
-                },
-                {
-                    "id": 13,
-                    "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Red",
-                    "price": "R$570,00",
-                    "price_with_discount": "",
-                    "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010782782_thumb.jpg",
-                    "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010787220_thumb.jpg",
-                    "in_stock": false
-                }
-            ]
-        }
+            "headset": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16454753591064.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Headset Gamer Fallen Morcego LightPro Preto",
+                        "price": "R$643,33",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668782795283_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Headset Gamer Fallen Morcego Vermelho",
+                        "price": "R$643,33",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668998954400_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Headset Gamer Fallen Morcego Preto",
+                        "price": "R$643,33",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16675896697741_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Headset Gamer Fallen Morcego Rosa",
+                        "price": "R$643,33",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16316530189611_thumb.jpeg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },    
+                    {
+                        "id": 5,
+                        "description": "Headset Gamer Fallen Eco Rgb - Preto",
+                        "price": "R$299,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668891083977_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Headset Gamer Fallen Eco Rgb - Rosa",
+                        "price": "R$299,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668926787782_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Headset Gamer Fallen Morcego Roxo",
+                        "price": "R$643,33",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16518626853041_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": false
+                    }
+                ]
+            },
+            "mouse": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16454752722189.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Mouse Gamer Fallen Lobo Pro",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$349,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168486679_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Mouse Gamer Ultraleve Fallen F75 Black",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998854438_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Mouse Gamer Ultraleve Fallen F70 Black",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16669008606246_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Mouse Gamer Ultraleve Fallen F65 Mars",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168441488_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Mouse Gamer Ultraleve Fallen F65 Tempest",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168463610_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Mouse Gamer Ultraleve Fallen F65 Mercury",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168453433_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Mouse Gamer Ultraleve Fallen F75 Pink",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998875496_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Mouse Gamer Fallen Lobo Eco Preto",
+                        "price": "R$199,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16687728286048_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Mouse Gamer Ultraleve Fallen F70 Tempest",
+                        "price": "R$555,44",
+                        "price_with_discount": "R$399,90",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16607376355532_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": false
+                    }
+                ]
+            },
+            "mouse_bungee": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16439759483453.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Mouse Bungee Fallen Tucano Preto",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Mouse Bungee Fallen Tucano Branco",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168415103_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Mouse Bungee Fallen Tucano Rosa",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168413951_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Mouse Bungee Fallen Tucano Vermelho",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008579796_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Mouse Bungee Fallen Tucano Azul",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168391633_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Mouse Bungee Fallen Eco",
+                        "price": "R$55,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008536515_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "mousepad": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16524654341648.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Mouse Bungee Fallen Tucano Preto",
+                        "price": "R$132,22",
+                        "price_with_discount": "R$79,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Mousepad Gamer Fallen Cs:go Ct/tr - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095359695_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095355855_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Mousepad Gamer Fallen Cs:go Fade - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095334118_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095338038_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Mousepad Gamer Fallen Cs:go Ezpz - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095324352_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095316099_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Mousepad Gamer Fallen Cs:go Slaughter - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095307295_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095297494_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Mousepad Gamer Fallen Cs:go Ct/tr - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095287691_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095261242_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Mousepad Gamer Fallen Cs:go Eco Medusa Sem Costura - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573166818929_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573166813984_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Mousepad Gamer Fallen Cs:go Eco Medusa Sem Costura - Speed+ Pequeno",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573176355531_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573176354794_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Mousepad Gamer Fallen Cs:go Ct/tr Rgb - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637885565151_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637885567010_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "Mousepad Gamer Fallen Cs:go Medusa Rgb - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637887837534_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637887816771_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Mousepad Gamer Fallen Cs:go Medusa Rgb - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637886692517_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637886716469_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 12,
+                        "description": "Mousepad Gamer Fallen Dota2 Sagan Rgb - Speed++ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014959_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014361_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 13,
+                        "description": "Mousepad Gamer Fallen Dota2 Omnislash Rgb - Speed++ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103181963_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103174381_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 14,
+                        "description": "Mousepad Gamer Fallen Dota2 Eco Sagan Sem Costura - Speed++ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418999250_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418991118_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 15,
+                        "description": "Mousepad Gamer Fallen Dota2 Omnislash Rgb - Speed++ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103153125_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103146852_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 16,
+                        "description": "Mousepad Gamer Fallen Dota2 Sagan Rgb - Speed++ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103125174_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103101414_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 17,
+                        "description": "Mousepad Gamer Fallen Dota2 Eco Omnislash Sem Costura - Speed++ Peeno",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103079581_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103073142_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 18,
+                        "description": "Mousepad Gamer Fallen Dota2 Omnislash - Speed++ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679222791902_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103056951_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 19,
+                        "description": "Mousepad Gamer Fallen Dota2 Sagan - Speed++ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673066928353_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673066945603_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 20,
+                        "description": "Mousepad Gamer Fallen Dota2 Sagan - Speed++ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418979497_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418972342_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 21,
+                        "description": "Mousepad Gamer Fallen Dota2 Eco Omnislash Sem Costura - Speed++ Esndido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103032680_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103037644_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 22,
+                        "description": "Mousepad Gamer Fallen Dota2 Omnislash - Speed++ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103029213_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103017118_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 23,
+                        "description": "Mousepad Gamer Fallen Dota2 Waveform - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102992813_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102983254_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 24,
+                        "description": "Mousepad Gamer Fallen Dota2 Dragon Set - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102941812_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102936153_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 25,
+                        "description": "Mousepad Gamer Fallen Dota2 Ancient - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911508_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911306_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 26,
+                        "description": "Mousepad Gamer Fallen Dota2 Lunar Set - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102906343_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102899584_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 27,
+                        "description": "Mousepad Gamer Fallen Dota2 Lunar Set - Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102874009_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102878199_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 28,
+                        "description": "Mousepad Gamer Fallen Dota2 Dragon Set - Speed+ Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102854632_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102843821_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 29,
+                        "description": "Mousepad Gamer Fallen Ace Rgb Speed+ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637807149538_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637807187021_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 30,
+                        "description": "Mousepad Gamer Fallen Ace Rgb - Control Estendido",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679402907499_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16679402924517_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 31,
+                        "description": "Mousepad Gamer Fallen Pantera V2 - Cordura Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16595424326790_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16595424329661_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 32,
+                        "description": "Mousepad Gamer Fallen Pantera V2 - Bk Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095253091_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095243763_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 33,
+                        "description": "Mousepad Gamer Fallen Eco Sakura - Speed++ Pequenoo SC",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450921445_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450913079_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 34,
+                        "description": "Mousepad Gamer Fallen Eco Sakura - Speed++ Grande SC",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450904732_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450894386_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 35,
+                        "description": "Mousepad Gamer Fallen Candy Rgb - Speed++ Médio",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637859813693_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637859809837_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 36,
+                        "description": "Mousepad Gamer Fallen Candy Rgb - Speed++ Grande",
+                        "price": "R$159,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637872509334_thumb.jpg",
+                        "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637872488730_thumb.jpg",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "tapete": {
+                "banner": "",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Tapete Gamer Fallen Angel",
+                        "price": "R$587,78",
+                        "price_with_discount": "R$399,00",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16540010813451_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "teclado": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16116827831692.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description" : "Teclado Gamer Híbrido-Mecânico Fallen Eco",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830742934_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830749870_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Blue",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714499911_thumb.jpeg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714497436_thumb.jpeg",
+                        "in_stock": true
+    
+                    },
+                    {
+                        "id": 3,
+                        "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Black",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168381871_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168389052_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description" : "Teclado Gamer Mecânico Fallen Ace - Switch Red",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239099763_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239085226_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description" : "TECLADO GAMER MECÂNICO FALLEN FALCÃOZINHO - SWITCH BLUE",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683336_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683296_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH BLUE",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130758886_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130753377_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH BLACK",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950914572_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950902671_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description" : "TECLADO GAMER MECÂNICO FALLEN ACE TOURNAMENT - SWITCH RED",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924456482_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924458287_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Blue",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010799605_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010791956_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Black",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898896298_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898882859_thumb.jpg",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description" : "Teclado Gamer Mecânico Fallen Falcãozinho - Switch Black",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576511024_thumb.jpeg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16606872429954_thumb.jpg",
+                        "in_stock": false
+                    },
+                    {
+                        "id": 12,
+                        "description" : "Teclado Gamer Mecânico Fallen Falcãozinho - Switch Red",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576675705_thumb.jpeg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16325090819634_thumb.jpg",
+                        "in_stock": false
+                    },
+                    {
+                        "id": 13,
+                        "description" : "Teclado Gamer Mecânico Fallen Falcão-Peregrino V3 - Switch Red",
+                        "price": "R$570,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010782782_thumb.jpg",
+                        "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010787220_thumb.jpg",
+                        "in_stock": false
+                    }
+                ]
+            }
+        }        
     },
     {
         "category_id": 2,
         "category_name": "wear",
+        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/16504590996192.jpeg",
         "category_products": {
-            "bone": [
-                {
-                    "id": 1,
-                    "description": "Boné Dota2 Juggernaut Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379074725_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Boné Dota2 Lunar Aba Reta",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379059526_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Boné Cs:go Apollo Aba Reta - Full Black ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442522884114_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Boné Cs:go Apollo Aba Reta - Branco ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654761928_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Boné Godsent Aba Reta Preto ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654796306_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Boné Faze Clan Big F Preto - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414944383_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Boné Faze Clan Big F Vermelho - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414945204_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 8,
-                    "description": "Boné Faze Clan Big F Branco - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414929155_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 9,
-                    "description": "Boné Pgdm Logo Cinza - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379008878_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 10,
-                    "description": "Boné Pubg Bateria - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442378918253_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                { 
-                    "id": 11,
-                    "description": "Boné Fallen One Stripe - Aba Curva ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389098877007_thumb",  
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 12,
-                    "description": "Boné Pubg Player Laranja - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378934339_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 13,
-                    "description": "Boné Faze Clan Big F Preto - Aba Curva ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442559023331_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 14,
-                    "description": "Boné Gdd - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378881865_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 15,
-                    "description": "Boné Imperial Fechado Aba Curva Rosa Columbus ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486934835_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                { 
-                    "id": 16,
-                    "description": "Boné Imperial Fechado Aba Curva Preto Columbus ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486943873_thumb",  
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 17,
-                    "description": "Boné Cs:go Apollo Aba Reta - Preto",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379033334_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 18,
-                    "description": "Boné Virtus.pro Logo - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16050240405547_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 19,
-                    "description": "Boné Sk Gaming Preto - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821162646255_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 20,
-                    "description": "Boné Pgdm Trolling Since Ever - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040349090_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {   
-                    "id": 21,
-                    "description": "Boné Pgdm Logo Preto - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040292520_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {  
-                    "id": 22,
-                    "description": "Boné Team One Old School",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932465067_thumb", 
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 23,
-                    "description": "Boné Team One Full Logo",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932435860_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 24,
-                    "description": "Boné Team One Cork",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932415886_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 25,
-                    "description": "Boné Black Dragons - Aba Curva",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136491937_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 26,
-                    "description": "Boné Sk-Gaming Brasil - Aba Reta",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442558877129_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 27,
-                    "description": "Boné Sk Gaming Azul - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16224686776291_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 28,
-                    "description": "Boné Sk Gaming Aba Curva ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/15844670831628_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 29,
-                    "description": "Boné Justw Classic Bege - Aba Curva ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626683271_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 30,
-                    "description": "Boné Justw Smoke - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378902388_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 31,
-                    "description": "Boné Justw Blue Style - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626689787_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 32,
-                    "description": "Boné Justw Army Style - Aba Reta ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626674302_thumb",                
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 33,
-                    "description": "Boné Fallen Classico - Aba Curva ",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136413591_thumb",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }               
-            ],
-            "bermuda": [
-                {
-                    "id": 1,
-                    "description": "Bermuda Pgdm Logo Preta",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626943394_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Bermuda Pubg Full Helmet",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626856602_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Bermuda Fallen Pocket Rings",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612586819973_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Bermuda Fallen Eco",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16612586879273_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Shorts Gamers Club Summer Edition",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414861860_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Bermuda Fallen Long Waist",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626783116_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Samba Canção Gamers Club Summer Edition",
-                    "price": "R$129,99",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16255764552599_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }
-            ],
-            "cachecol": [
-                {
-                    "id": 1,
-                    "description": "Cachecol Cs:go Apollo Amarelo E Azul",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415104160_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }
-            ],
-            "calca": [
-                {
-                    "id": 1,
-                    "description": "Calça Moletom Cs:go Apollo Ct/tr",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16448642985268_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 2,
-                    "description": "Calça Helanca Cs:go Apollo Ct Stripe",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415045593_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 3,
-                    "description": "Calça Moletom Faze Clan Cinza Faixa Lateral",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680878853959_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 4,
-                    "description": "Calça Moletom Faze Clan Preta Faixa Lateral",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16445258939668_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 5,
-                    "description": "Calça Helanca Dota2 Signals",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536636716183_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 6,
-                    "description": "Calça Moletom Pgdm Street",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414991970_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 7,
-                    "description": "Calça Helanca Pgdm Old School",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414988003_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 8,
-                    "description": "Calça Em Helanca Fallen Side Band Sport",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098924188_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 9,
-                    "description": "Calça Black Dragons",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414833999_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 10,
-                    "description": "Calça Legging Fallen Play Like A Girl",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414886538_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 11,
-                    "description": "Calça Moletom Team One Crossroad",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932515521_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                },
-                {
-                    "id": 12,
-                    "description": "Calça Moletom Fallen Bicolor",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536636588127_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": false
-                },
-                {
-                    "id": 13,
-                    "description": "Calça Moletom Pubg Clássica",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/produto/16381934962699_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": false
-                },
-                {
-                    "id": 14,
-                    "description": "Calça Moletom Team One Crossroad - Preto Estonado",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16077122659374_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": false
-                },
-                {
-                    "id": 15,
-                    "description": "Calça Side Band Black Dragons",
-                    "price": "R$99,00",
-                    "price_with_discount": "",
-                    "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16158410623733_thumb.jpg",
-                    "img_hover_src": "",
-                    "in_stock": true
-                }
-                
-            ],
-            "camiseta": [],
-            "jaqueta": [],
-            "moletom": [],
-            "pulover": [],
-            "touca": [],
-            "uniforme": []
-        }
+            "bone": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370947476024.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Boné Dota2 Juggernaut Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379074725_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Boné Dota2 Lunar Aba Reta",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379059526_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Boné Cs:go Apollo Aba Reta - Full Black ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442522884114_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Boné Cs:go Apollo Aba Reta - Branco ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654761928_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Boné Godsent Aba Reta Preto ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654796306_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Boné Faze Clan Big F Preto - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414944383_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Boné Faze Clan Big F Vermelho - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414945204_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Boné Faze Clan Big F Branco - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414929155_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Boné Pgdm Logo Cinza - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379008878_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "Boné Pubg Bateria - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442378918253_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    { 
+                        "id": 11,
+                        "description": "Boné Fallen One Stripe - Aba Curva ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389098877007_thumb",  
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 12,
+                        "description": "Boné Pubg Player Laranja - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378934339_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 13,
+                        "description": "Boné Faze Clan Big F Preto - Aba Curva ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442559023331_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 14,
+                        "description": "Boné Gdd - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378881865_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 15,
+                        "description": "Boné Imperial Fechado Aba Curva Rosa Columbus ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486934835_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    { 
+                        "id": 16,
+                        "description": "Boné Imperial Fechado Aba Curva Preto Columbus ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486943873_thumb",  
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 17,
+                        "description": "Boné Cs:go Apollo Aba Reta - Preto",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379033334_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 18,
+                        "description": "Boné Virtus.pro Logo - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16050240405547_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 19,
+                        "description": "Boné Sk Gaming Preto - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821162646255_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 20,
+                        "description": "Boné Pgdm Trolling Since Ever - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040349090_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {   
+                        "id": 21,
+                        "description": "Boné Pgdm Logo Preto - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040292520_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {  
+                        "id": 22,
+                        "description": "Boné Team One Old School",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932465067_thumb", 
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 23,
+                        "description": "Boné Team One Full Logo",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932435860_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 24,
+                        "description": "Boné Team One Cork",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932415886_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 25,
+                        "description": "Boné Black Dragons - Aba Curva",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136491937_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 26,
+                        "description": "Boné Sk-Gaming Brasil - Aba Reta",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442558877129_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 27,
+                        "description": "Boné Sk Gaming Azul - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16224686776291_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 28,
+                        "description": "Boné Sk Gaming Aba Curva ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/15844670831628_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 29,
+                        "description": "Boné Justw Classic Bege - Aba Curva ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626683271_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 30,
+                        "description": "Boné Justw Smoke - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378902388_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 31,
+                        "description": "Boné Justw Blue Style - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626689787_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 32,
+                        "description": "Boné Justw Army Style - Aba Reta ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626674302_thumb",                
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 33,
+                        "description": "Boné Fallen Classico - Aba Curva ",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136413591_thumb",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }               
+                ]
+            },
+            "bermuda": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370947166154.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Bermuda Pgdm Logo Preta",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626943394_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Bermuda Pubg Full Helmet",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626856602_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Bermuda Fallen Pocket Rings",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612586819973_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Bermuda Fallen Eco",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16612586879273_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Shorts Gamers Club Summer Edition",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414861860_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Bermuda Fallen Long Waist",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626783116_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Samba Canção Gamers Club Summer Edition",
+                        "price": "R$129,99",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16255764552599_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "cachecol": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370948062248.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Cachecol Cs:go Apollo Amarelo E Azul",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415104160_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "calca": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16454754269739.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Calça Moletom Cs:go Apollo Ct/tr",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16448642985268_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Calça Helanca Cs:go Apollo Ct Stripe",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415045593_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Calça Moletom Faze Clan Cinza Faixa Lateral",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680878853959_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Calça Moletom Faze Clan Preta Faixa Lateral",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16445258939668_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Calça Helanca Dota2 Signals",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536636716183_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Calça Moletom Pgdm Street",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414991970_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Calça Helanca Pgdm Old School",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414988003_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Calça Em Helanca Fallen Side Band Sport",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098924188_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Calça Black Dragons",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414833999_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "Calça Legging Fallen Play Like A Girl",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414886538_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Calça Moletom Team One Crossroad",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932515521_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 12,
+                        "description": "Calça Moletom Fallen Bicolor",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536636588127_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": false
+                    },
+                    {
+                        "id": 13,
+                        "description": "Calça Moletom Pubg Clássica",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16381934962699_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": false
+                    },
+                    {
+                        "id": 14,
+                        "description": "Calça Moletom Team One Crossroad - Preto Estonado",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16077122659374_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": false
+                    },
+                    {
+                        "id": 15,
+                        "description": "Calça Side Band Black Dragons",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16158410623733_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                    
+                ]
+            },
+            "camiseta": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16454756291583.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Camiseta Dota2 Ancient Black",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451277862_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 2,
+                        "description": "Camiseta Dota2 Ancient White",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451253041_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 2,
+                        "description": "Camiseta Cs:go Apollo Ct X Tr",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536627023127_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Camiseta Cs:go Apollo Inferno Lines",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16587612463869_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 4,
+                        "description": "Camiseta Cs:go Apollo Costume Soldier",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451324290_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 5,
+                        "description": "Camiseta Faze Clan Clássica - Preta",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626704115_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Camiseta Faze Clan Clássica - Vermelha",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626878861_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 7,
+                        "description": "Camiseta Faze Clan Clássica - Branca",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626901926_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 8,
+                        "description": "Camiseta Pgdm Cuca Quente - Branca",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451175911_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 9,
+                        "description": "Camiseta Pgdm Logo - Branca",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636739725_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 10,
+                        "description": "Camiseta Pgdm Napolitano",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636769164_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Camiseta Fallen Spray N Pray",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596568041_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 12,
+                        "description": "Camiseta Fallen Play Hard Go Pro",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586888435_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 13,
+                        "description": "Camiseta Fallen Picks",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586883408_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 14,
+                        "description": "Camiseta Casual Neverest Branca",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451201853_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 15,
+                        "description": "Camiseta Manga Dupla Team One Shine",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16080362691698_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true},
+                    {
+                        "id": 16,
+                        "description": "Camiseta Babylook Fallen Play Like A Girl",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636689259_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 17,
+                        "description": "Camiseta Pubg Bateria - Preta",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451085731_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 18,
+                        "description": "Camiseta Babylook Fallen Eu E Você",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586843471_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 19,
+                        "description": "Camiseta Fallen Eu E Você",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586834435_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 20,
+                        "description": "Camiseta Pubg Full Helmet",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451081944_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 21,
+                        "description": "Camiseta Black Dragons Est 1997",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626843447_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 22,
+                        "description": "Camiseta Black Dragons Biggest Gamer Family",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626843301_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 23,
+                        "description": "Camiseta Gamers Club Summer Edition",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636738795_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 24,
+                        "description": "Crop Top Virtus.pro 2017",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451033568_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 25,
+                        "description": "Camiseta Fallen Stop Blowing My Mind Infantil",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636668118_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 26,
+                        "description": "Camiseta Team One Thread",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389134752590_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 27,
+                        "description": "Camiseta Team One Champions",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389134759077_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 28,
+                        "description": "Camiseta Fallen Pink Panther",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586776116_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 29,
+                        "description": "Camiseta Babylook Fallen Flowers Wing",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389098856749_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 30,
+                        "description": "Camiseta Pubg Jungle Heroes",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451026718_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 31,
+                        "description": "Camiseta PUBG Survival",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451017815_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 32,
+                        "description": "Camiseta PUBG Helmet",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451018473_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 33,
+                        "description": "Camiseta PUBG Chicken",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451007280_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 34,
+                        "description": "Camiseta Manga Longa Raglan Jukes",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389098851128_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 35,
+                        "description": "Camisa Polo Virtus.pro Classic",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596468331_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 36,
+                        "description": "Camiseta Navi Navigate",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596456522_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 37,
+                        "description": "Camiseta Feminina Navi Caligrafia",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596435158_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 38,
+                        "description": "Camiseta Virtus.pro Urso",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442450957747_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 39,
+                        "description": "Camiseta Sk Gaming Runskg",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442450933106_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "jaqueta": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370948846841.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Jaqueta Helanca Dota2 Lunar Set",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461565015_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 2,
+                        "description": "Jaqueta Helanca Dota2 Ancient Red",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636776135_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 3,
+                        "description": "Jaqueta Helanca Aberta Cs:go Apollo Mundi",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461457116_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 4,
+                        "description": "Jaqueta Sk Gaming De Futebol",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16600562838755_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 5,
+                        "description": "Jaqueta Sk Gaming Softshell",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461221390_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 6,
+                        "description": "Jaqueta Sk Gaming Corta Vento Leve",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461212491_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 7,
+                        "description": "Jaqueta Virtus.pro De Futebol",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16612596488009_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 8,
+                        "description": "Jaqueta Navi Corta Vento",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16633538729641_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 9,
+                        "description": "Jaqueta Helanca PGDM Old School",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461323717_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    },
+                    {
+                        "id": 10,
+                        "description": "Jaqueta Navi De Futebol",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15895503305971_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true                    
+                    }
+                ]
+            },
+            "moletom": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370949135248.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Moletom Imperial Canguru Mescla | Pré-venda: envios a partir de 30/11",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16660214869409_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Moletom Aberto Cs:go Apollo Radar",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461444957_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": " Moletom Faze Clan Cinza Faixa Lateral",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16597368779603_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Moletom Faze Clan Preto Faixa Lateral",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16624836353563_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Moletom Dota2 Casual Juggernaut",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461555515_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Moletom Pgdm Street Branco",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461357941_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Moletom Pgdm Street Preto",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461323960_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Moletom Faze Clan Big F",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16370945288397_thumb.jpeg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Moletom Pubg Bateria",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486859390_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "Moletom Gamers Club Masters - Masculino",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486979029_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Moletom Gamers Club Masters - Feminino",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486992900_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 12,
+                        "description": "Suéter Black Dragons Side Band",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486967659_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 13,
+                        "description": "Moletom Fallen Identity Yellow",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389098865693_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 14,
+                        "description": "Moletom Virtus.pro Jogador Clássico",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596433591_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 15,
+                        "description": "Moletom Pubg Logos",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486856607_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 16,
+                        "description": "Moletom Sk Gaming Aberto De Jogador Com Capuz",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486873132_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 17,
+                        "description": "Moletom Team One All For One - Preto",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134906015_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 18,
+                        "description": "Moletom Team One All For One - Preto Estonado",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134896156_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 19,
+                        "description": "Moletom Feminino Team One Golden Girls",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134892026_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 21,
+                        "description": "Moletom Pubg Cars",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486868491_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 21,
+                        "description": "Moletom Justw Logo",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16382834945454_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 22,
+                        "description": "Moletom Feminino Navi Navigate",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486844061_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 23,
+                        "description": "Moletom Fallen Identity Black",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389134804684_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 24,
+                        "description": "Moletom Team One Color Sleeve - Branco",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16050302736855_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 25,
+                        "description": "Moletom Team One Color Sleeve - Preto",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932384263_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 26,
+                        "description": "Moletom Gamers Club Masters",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894783915506_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 27,
+                        "description": "Moletom Sk Gaming Com Capuz Premium",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16617734744755_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 28,
+                        "description": "Moletom Fallen Logo",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894782709613_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "pulover": {
+                "banner": "",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Pulôver Cs:go Apollo Azul",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16611938911602_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Pulôver Cs:go Apollo Amarelo",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16611902956470_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "touca": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16370949549459.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Touca Cs:go Apollo Ct X Tr Amarela E Azul",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654787362_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Touca Dota2 Dupla Face Vermelha E Preta",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442487077580_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "uniforme": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/16504590558127.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Uniforme Imperial Holo Oficial",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16690680405740_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Uniforme Godsent Oficial 2021",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16468514904835_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "UNIFORME FAZE CLAN OFICIAL TIGER GREY",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626831367_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "UNIFORME FAZE CLAN OFICIAL TIGER CAMO",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16624836435766_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Uniforme Faze Clan Oficial Tiger Camo - K1ng",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442487059314_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Uniforme Noping Oficial 2021",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442487049942_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Uniforme Faze Clan Oficial Tiger Camo - Coldzera",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15926614606697_thumb.jpeg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Uniforme Neverest Oficial 2021",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442487016149_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "UNIFORME VIRTUS.PRO OFICIAL 2017",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442558934357_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "UNIFORME BLACK DRAGONS OFICIAL",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442522781404_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Uniforme Faze Clan Oficial Tiger Brazil 2021",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442487025566_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 12,
+                        "description": "UNIFORME NAVI OFICIAL 2017",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16276814786297_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            }
+        }      
     },
     {
         "category_id": 3,
         "category_name": "acessorios",
+        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/15821437972562.jpeg",
         "category_products": {
-            "bandeira": [],
-            "caneca": [],
-            "chaveiro": [],
-            "mascara": [],
-            "mochila": [],
-            "oculos": []
+            "bandeira": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438121295.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Bandeira Virtus.pro Premium",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16050240236166_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Bandeira Imperial Oficial",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16649018835855_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Bandeira Navi Premium",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16255826741362_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Bandeira Sk Gaming",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16224660688603_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "caneca": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438334462.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Caneca Fallen Angel",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854604099_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Caneca Fallen Cache",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854614127_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Caneca Fallen Ct",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854637327_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Caneca Fallen Mirage",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854651889_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Caneca Fallen Smoke Banana",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854664154_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Caneca Fallen Train",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246501033_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Caneca Fallen Tr",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246527484_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Caneca Navi",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246584545_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Caneca Virtus.pro",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16050240354276_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "chaveiro": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438483414.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Chaveiro Gold Dragon Ak-47 Red 17Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098766200_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Chaveiro Gold Dragon Ak-47 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098761504_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Chaveiro Gold Dragon Aug 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098773055_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Chaveiro Gold Dragon Awp 17Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098782489_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 5,
+                        "description": "Chaveiro Gold Dragon Kar98 Silencer 17Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098785173_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 6,
+                        "description": "Chaveiro Gold Dragon M16 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098796732_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 7,
+                        "description": "Chaveiro Gold Dragon M249 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098803622_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 8,
+                        "description": "Chaveiro Gold Dragon Scarl 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098804864_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 9,
+                        "description": "Chaveiro Do Global Fallen - Aug",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246714991_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 10,
+                        "description": "Chaveiro Do Global Fallen - Cz75",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246847342_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 11,
+                        "description": "Chaveiro Do Global Fallen - Dual Berettas",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246866309_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 12,
+                        "description": "Chaveiro Do Global Fallen - Default-Tr",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246922810_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 13,
+                        "description": "Chaveiro Do Global Fallen - Famas",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246987173_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 14,
+                        "description": "Chaveiro Do Global Fallen - Mac-10",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247168941_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 15,
+                        "description": "Chaveiro Do Global Fallen - Mag-7",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247183349_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 16,
+                        "description": "Chaveiro Do Global Fallen - Mp5-Sd",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247212755_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 17,
+                        "description": "Chaveiro Do Global Fallen - Nova",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247235898_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 18,
+                        "description": "Chaveiro Do Global Fallen - Smoke",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247302287_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 19,
+                        "description": "Chaveiro Do Global Fallen - Sg 553",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247329362_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 20,
+                        "description": "Chaveiro Do Global Fallen - Stiletto",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247344884_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 21,
+                        "description": "Chaveiro Do Global Fallen - Tec-9",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247379485_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 22,
+                        "description": "Chaveiro Do Global Fallen - Ump-45",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247408938_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 23,
+                        "description": "Chaveiro Virtus Pro",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/15844670961484_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 24,
+                        "description": "Chaveiro Gold Dragon Ak-47 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098758296_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 25,
+                        "description": "Chaveiro Gold Dragon Aug 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098778443_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 26,
+                        "description": "Chaveiro Gold Dragon Awm 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098776982_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 27,
+                        "description": "Chaveiro Gold Dragon Awm 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098774870_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 28,
+                        "description": "Chaveiro Gold Dragon Awp 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098771568_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 29,
+                        "description": "Chaveiro Gold Dragon Kar98 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098781511_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 30,
+                        "description": "Chaveiro Gold Dragon Kar98 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098786637_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 31,
+                        "description": "Chaveiro Gold Dragon M16 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098798269_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 32,
+                        "description": "Chaveiro Gold Dragon M16A4 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098794374_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 33,
+                        "description": "Chaveiro Gold Dragon M24 17Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098795854_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 34,
+                        "description": "Chaveiro Gold Dragon M4A4 12Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098807799_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 35,
+                        "description": "Chaveiro Gold Dragon M4A4 6Cm",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098809849_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 36,
+                        "description": "Chaveiro Do Global Fallen - Ak-47",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246744632_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 37,
+                        "description": "Chaveiro Do Global Fallen - Awp",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246754720_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 38,
+                        "description": "Chaveiro Do Global Fallen - Bowie",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679474664524_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 39,
+                        "description": "Chaveiro Do Global Fallen - Bayonet",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246793388_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 40,
+                        "description": "Chaveiro Do Global Fallen - Butterfly",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246812406_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "mascara": {
+                "banner": "",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Máscara Fallen Ace",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612586912977_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Máscara Fallen Candy",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596558019_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Máscara Fallen Angel",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596511030_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 4,
+                        "description": "Máscara Black Dragons Safe",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442558996009_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "mochila": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438988827.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Óculos Gamer Render Black Matte",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792724793_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Óculos Gamer Render Camo",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792754013_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            },
+            "oculos": {
+                "banner": "//static.cdnlive.com.br/uploads/602/banner/15821439437775.jpeg",
+                "products": [
+                    {
+                        "id": 1,
+                        "description": "Óculos Gamer Render Turtle",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792777856_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 2,
+                        "description": "Patch Pubg Sortido (1 Unidade)",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16608456381326_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    },
+                    {
+                        "id": 3,
+                        "description": "Patch Pubg Sortido (1 Unidade)",
+                        "price": "R$99,00",
+                        "price_with_discount": "",
+                        "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16608456381326_thumb.jpg",
+                        "img_hover_src": "",
+                        "in_stock": true
+                    }
+                ]
+            }
         }
     }
 ]
