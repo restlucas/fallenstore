@@ -1,7 +1,6 @@
 import React from 'react'
 import { NavLink } from 'react-router-dom'
-
-import { SportsEsports, DryCleaning, ShoppingBag, Search, Menu, AccountCircle, StarBorder, ShoppingCart } from '@mui/icons-material/'
+import * as Icon from '@mui/icons-material/'
 
 import styles from './NavItems.module.css'
 
@@ -11,33 +10,33 @@ const NavItems = () => {
       <nav className={styles.nav}>
         <div className={styles.navLink}>
           <NavLink className={styles.navItem}>
-            <SportsEsports fontSize="small" />
+            <Icon.SportsEsports fontSize="small" />
             <span>GEAR</span>
           </NavLink>
           <NavLink className={styles.navItem}>
-            <DryCleaning fontSize="small" />
+            <Icon.DryCleaning fontSize="small" />
             <span>WEAR</span>
           </NavLink>
           <NavLink className={styles.navItem}>
-            <ShoppingBag fontSize="small" />
+            <Icon.ShoppingBag fontSize="small" />
             <span>ACESSÓRIOS</span>
           </NavLink>
         </div>
         <div className={styles.navLink}>
           <NavLink className={styles.navItem}>
-            <Search fontSize="small" />
+            <Icon.Search fontSize="small" />
           </NavLink>
           <NavLink className={styles.navItem}>
-            <Menu fontSize="small" />
+            <Icon.Menu fontSize="small" />
           </NavLink>
           <NavLink className={styles.navItem}>
-            <AccountCircle fontSize="small" />
+            <Icon.AccountCircle fontSize="small" />
           </NavLink>
           <NavLink className={styles.navItem}>
-            <StarBorder fontSize="small" />
+            <Icon.StarBorder fontSize="small" />
           </NavLink>
           <NavLink className={styles.navItem}>
-            <ShoppingCart fontSize="small" />
+            <Icon.ShoppingCart fontSize="small" />
           </NavLink>
         </div>
       </nav>

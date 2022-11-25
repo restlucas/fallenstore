@@ -1,8 +1,20 @@
 import React from "react";
+import slide1 from '../../assets/slide1.png' 
+import slide2 from '../../assets/slide2.png' 
+import slide3 from '../../assets/slide3.png' 
+import slide4 from '../../assets/slide4.png' 
+
+// Import Swiper styles
+import "swiper/css";
+import "swiper/css/pagination";
+import "swiper/css/navigation";
+import styles from './SwiperCarousel.module.css'
+
+// import required modules
 import { Swiper, SwiperSlide } from "swiper/react";
 import { Autoplay, Pagination, Navigation } from "swiper";
 
-import styles from './SwiperCarousel.module.css';
+
 
 const SwiperCarousel = () => {
   return (
@@ -19,16 +31,12 @@ const SwiperCarousel = () => {
         }}
         navigation={true}
         modules={[Autoplay, Pagination, Navigation]}
+        className="mySwiper"
       >
-        <SwiperSlide>Slide 1</SwiperSlide>
-        <SwiperSlide>Slide 2</SwiperSlide>
-        <SwiperSlide>Slide 3</SwiperSlide>
-        <SwiperSlide>Slide 4</SwiperSlide>
-        <SwiperSlide>Slide 5</SwiperSlide>
-        <SwiperSlide>Slide 6</SwiperSlide>
-        <SwiperSlide>Slide 7</SwiperSlide>
-        <SwiperSlide>Slide 8</SwiperSlide>
-        <SwiperSlide>Slide 9</SwiperSlide>
+        <SwiperSlide><img src={slide1} alt="Slide image" /></SwiperSlide>
+        <SwiperSlide><img src={slide2} alt="Slide image" /></SwiperSlide>
+        <SwiperSlide><img src={slide3} alt="Slide image" /></SwiperSlide>
+        <SwiperSlide><img src={slide4} alt="Slide image" /></SwiperSlide>
       </Swiper>
     </div>
   )
