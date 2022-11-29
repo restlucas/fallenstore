@@ -1,19 +1,51 @@
 import React from 'react'
-import SwiperCarousel from '../SwiperCarousel/SwiperCarousel';
+import SwiperComponent from '../SwiperComponent/SwiperComponent';
+import SwiperGroupSlide from '../SwiperComponent/SwiperGroupSlide';
 
+import productsData from '../../data/products.json';
 import advantage_trophie from '../../assets/advantage_trophie.png';
 import advantage_www from '../../assets/advantage_www.png';
 import advantage_network from '../../assets/advantage_network.png';
 
-import * as Icon from '@mui/icons-material/'
+import CardItem from '../CardItem/CardItem';
 
+import * as Icon from '@mui/icons-material/'
 import styles from './Home.module.css'
 
 const Home = () => {
   return (
     <>
       <section className={styles.swiper}>
-        <SwiperCarousel />
+        <SwiperComponent />
+      </section>
+
+      <section className={styles.productSection}>
+        <div className={styles.productSectionTitle}>
+          <div>
+              <Icon.SportsEsports fontSize="large" sx={{ color: '#FFE000' }} />
+              <h1>LANÇAMENTOS FALLENWEAR</h1>
+            </div>
+            <div>
+              <span>VER MAIS</span>
+              <Icon.ArrowForwardIos />
+            </div>
+        </div>
+      </section>
+
+      <section className={styles.productSection}>
+        <div className={styles.productSectionTitle}>
+          <div>
+            <Icon.SportsEsports fontSize="large" sx={{ color: '#FFE000' }} />
+            <h1>MOUSEPADS</h1>
+          </div>
+          <div>
+            <span>VER MAIS</span>
+            <Icon.ArrowForwardIos />
+          </div>
+        </div>
+        <div>
+          <SwiperGroupSlide data={productsData[0].data.mousepad} />
+        </div>
       </section>
 
       <section className={styles.advantages}>

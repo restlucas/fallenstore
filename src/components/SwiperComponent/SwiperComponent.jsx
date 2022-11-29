@@ -16,18 +16,16 @@ import { Autoplay, Pagination, Navigation } from "swiper";
 
 
 
-const SwiperCarousel = () => {
+const SwiperComponent = () => {
   return (
     <div className={styles.swiper}>
       <Swiper
         spaceBetween={30}
         centeredSlides={true}
+        loop={true}
         autoplay={{
-          delay: 2500,
+          delay: 4500,
           disableOnInteraction: false,
-        }}
-        pagination={{
-          clickable: true,
         }}
         navigation={true}
         modules={[Autoplay, Pagination, Navigation]}
@@ -42,4 +40,4 @@ const SwiperCarousel = () => {
   )
 }
 
-export default SwiperCarousel;
+export default SwiperComponent;

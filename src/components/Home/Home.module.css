@@ -3,6 +3,35 @@
     display: block;
 }
 
+.productSection {
+    padding: 2rem 5rem;
+}
+
+.productSectionTitle {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+.productSectionTitle div {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 1rem;
+}
+
+.productSectionTitle span {
+    font-size: .85rem;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.gridItems {
+    display: grid;
+    grid-template-columns: repeat(4, 255px);
+    gap: 1rem;
+}
+
 .advantages {
     padding: 2rem 1rem 2rem 1rem;
     display: flex;
@@ -25,7 +54,6 @@
 }
 
 .responsiveVideo {
-    width: 100%;
     display: flex;
     align-items: center;
     justify-content: center;

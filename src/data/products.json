@@ -1,12 +1,11 @@
+
 [
     {
-        "category_id": 1,
-        "category_name": "gear",
-        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/16460642103402.jpeg",
-        "category_products": {
+        "type_data": "products",
+        "data": {
             "headset": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16454753591064.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Headset Gamer Fallen Morcego LightPro Preto",
@@ -14,7 +13,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668782795283_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },
                     {
                         "id": 2,
@@ -23,7 +23,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668998954400_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },
                     {
                         "id": 3,
@@ -32,7 +33,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16675896697741_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },
                     {
                         "id": 4,
@@ -41,7 +43,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16316530189611_thumb.jpeg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },    
                     {
                         "id": 5,
@@ -50,7 +53,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668891083977_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },
                     {
                         "id": 6,
@@ -59,7 +63,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16668926787782_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "headset"
                     },
                     {
                         "id": 7,
@@ -68,13 +73,14 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16518626853041_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "headset"
                     }
                 ]
             },
             "mouse": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16454752722189.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Mouse Gamer Fallen Lobo Pro",
@@ -82,7 +88,8 @@
                         "price_with_discount": "R$349,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168486679_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 2,
@@ -91,7 +98,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998854438_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 3,
@@ -100,7 +108,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16669008606246_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 4,
@@ -109,7 +118,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168441488_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 5,
@@ -118,7 +128,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168463610_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 6,
@@ -127,7 +138,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168453433_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 7,
@@ -136,7 +148,8 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16668998875496_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 8,
@@ -145,7 +158,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16687728286048_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse"
                     },
                     {
                         "id": 9,
@@ -154,13 +168,14 @@
                         "price_with_discount": "R$399,90",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16607376355532_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "mouse"
                     }
                 ]
             },
             "mouse_bungee": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16439759483453.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Mouse Bungee Fallen Tucano Preto",
@@ -168,7 +183,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     },
                     {
                         "id": 2,
@@ -177,7 +193,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168415103_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     },
                     {
                         "id": 3,
@@ -186,7 +203,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680168413951_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     },
                     {
                         "id": 4,
@@ -195,7 +213,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008579796_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     },
                     {
                         "id": 5,
@@ -204,7 +223,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168391633_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     },
                     {
                         "id": 6,
@@ -213,13 +233,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16669008536515_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mouse_bungee"
                     }
                 ]
             },
             "mousepad": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16524654341648.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Mouse Bungee Fallen Tucano Preto",
@@ -227,7 +248,8 @@
                         "price_with_discount": "R$79,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16680168437234_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 2,
@@ -236,7 +258,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095359695_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095355855_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 3,
@@ -245,7 +268,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095334118_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095338038_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 4,
@@ -254,7 +278,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095324352_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095316099_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 5,
@@ -263,7 +288,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095307295_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095297494_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 6,
@@ -272,7 +298,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095287691_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095261242_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 7,
@@ -281,7 +308,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573166818929_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573166813984_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 8,
@@ -290,7 +318,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573176355531_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573176354794_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 9,
@@ -299,7 +328,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637885565151_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637885567010_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 10,
@@ -308,7 +338,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637887837534_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637887816771_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 11,
@@ -317,7 +348,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637886692517_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637886716469_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 12,
@@ -326,7 +358,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014959_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672419014361_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 13,
@@ -335,7 +368,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103181963_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103174381_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 14,
@@ -344,7 +378,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418999250_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418991118_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 15,
@@ -353,7 +388,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103153125_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103146852_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 16,
@@ -362,7 +398,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103125174_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103101414_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 17,
@@ -371,7 +408,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103079581_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103073142_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 18,
@@ -380,7 +418,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679222791902_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103056951_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 19,
@@ -389,7 +428,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673066928353_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673066945603_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 20,
@@ -398,7 +438,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418979497_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418972342_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 21,
@@ -407,7 +448,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103032680_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103037644_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 22,
@@ -416,7 +458,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673103029213_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673103017118_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 23,
@@ -425,7 +468,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102992813_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102983254_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 24,
@@ -434,7 +478,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102941812_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102936153_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 25,
@@ -443,7 +488,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911508_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16672418911306_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 26,
@@ -452,7 +498,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102906343_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102899584_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 27,
@@ -461,7 +508,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102874009_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102878199_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 28,
@@ -470,7 +518,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16673102854632_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16673102843821_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 29,
@@ -479,7 +528,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637807149538_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637807187021_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 30,
@@ -488,7 +538,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679402907499_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16679402924517_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 31,
@@ -497,7 +548,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16595424326790_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16595424329661_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 32,
@@ -506,7 +558,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16573095253091_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16573095243763_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 33,
@@ -515,7 +568,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450921445_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450913079_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 34,
@@ -524,7 +578,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16577450904732_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16577450894386_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 35,
@@ -533,7 +588,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637859813693_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637859809837_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     },
                     {
                         "id": 36,
@@ -542,13 +598,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16637872509334_thumb.jpg",
                         "img_hover_src": "//static.cdnlive.com.br/uploads/602/produto/16637872488730_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mousepad"
                     }
                 ]
             },
             "tapete": {
                 "banner": "",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Tapete Gamer Fallen Angel",
@@ -556,13 +613,14 @@
                         "price_with_discount": "R$399,00",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16540010813451_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "tapete"
                     }
                 ]
             },
             "teclado": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16116827831692.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description" : "Teclado Gamer Híbrido-Mecânico Fallen Eco",
@@ -570,7 +628,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830742934_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16566830749870_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 2,
@@ -579,7 +638,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714499911_thumb.jpeg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16236714497436_thumb.jpeg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
     
                     },
                     {
@@ -589,7 +649,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168381871_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16680168389052_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 4,
@@ -598,7 +659,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239099763_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16240239085226_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 5,
@@ -607,7 +669,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683336_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010683296_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 6,
@@ -616,7 +679,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130758886_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16438130753377_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 7,
@@ -625,7 +689,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950914572_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248950902671_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 8,
@@ -634,7 +699,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924456482_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/produto/16248924458287_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 9,
@@ -643,7 +709,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010799605_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010791956_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 10,
@@ -652,7 +719,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898896298_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16381898882859_thumb.jpg",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "teclado"
                     },
                     {
                         "id": 11,
@@ -661,7 +729,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576511024_thumb.jpeg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16606872429954_thumb.jpg",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "teclado"
                     },
                     {
                         "id": 12,
@@ -670,7 +739,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16098576675705_thumb.jpeg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16325090819634_thumb.jpg",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "teclado"
                     },
                     {
                         "id": 13,
@@ -679,20 +749,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010782782_thumb.jpg",
                         "img_hover_src" : "//static.cdnlive.com.br/uploads/602/unidade/16540010787220_thumb.jpg",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "teclado"
                     }
                 ]
-            }
-        }        
-    },
-    {
-        "category_id": 2,
-        "category_name": "wear",
-        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/16504590996192.jpeg",
-        "category_products": {
+            },
             "bone": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370947476024.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Boné Dota2 Juggernaut Aba Reta ",
@@ -700,7 +764,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379074725_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 2,
@@ -709,7 +774,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379059526_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 3,
@@ -718,7 +784,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442522884114_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 4,
@@ -727,7 +794,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654761928_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 5,
@@ -736,7 +804,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654796306_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 6,
@@ -745,7 +814,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414944383_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 7,
@@ -754,7 +824,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414945204_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 8,
@@ -763,7 +834,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414929155_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 9,
@@ -772,7 +844,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379008878_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 10,
@@ -781,7 +854,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442378918253_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     { 
                         "id": 11,
@@ -790,7 +864,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389098877007_thumb",  
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 12,
@@ -799,7 +874,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378934339_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 13,
@@ -808,7 +884,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442559023331_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 14,
@@ -817,7 +894,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378881865_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 15,
@@ -826,7 +904,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486934835_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     { 
                         "id": 16,
@@ -835,7 +914,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16613486943873_thumb",  
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 17,
@@ -844,7 +924,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442379033334_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 18,
@@ -853,7 +934,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16050240405547_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 19,
@@ -862,7 +944,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821162646255_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 20,
@@ -871,7 +954,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040349090_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {   
                         "id": 21,
@@ -880,7 +964,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16142040292520_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {  
                         "id": 22,
@@ -889,7 +974,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932465067_thumb", 
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 23,
@@ -898,7 +984,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932435860_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 24,
@@ -907,7 +994,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932415886_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 25,
@@ -916,7 +1004,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136491937_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 26,
@@ -925,7 +1014,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442558877129_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 27,
@@ -934,7 +1024,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16224686776291_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 28,
@@ -943,7 +1034,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/15844670831628_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 29,
@@ -952,7 +1044,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626683271_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 30,
@@ -961,7 +1054,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442378902388_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 31,
@@ -970,7 +1064,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626689787_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 32,
@@ -979,7 +1074,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626674302_thumb",                
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     },
                     {
                         "id": 33,
@@ -988,13 +1084,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15821136413591_thumb",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bone"
                     }               
                 ]
             },
             "bermuda": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370947166154.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Bermuda Pgdm Logo Preta",
@@ -1002,7 +1099,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536626943394_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 2,
@@ -1011,7 +1109,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626856602_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 3,
@@ -1020,7 +1119,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612586819973_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 4,
@@ -1029,7 +1129,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16612586879273_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 5,
@@ -1038,7 +1139,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414861860_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 6,
@@ -1047,7 +1149,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536626783116_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     },
                     {
                         "id": 7,
@@ -1056,13 +1159,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16255764552599_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bermuda"
                     }
                 ]
             },
             "cachecol": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370948062248.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Cachecol Cs:go Apollo Amarelo E Azul",
@@ -1070,13 +1174,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415104160_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "cachecol"
                     }
                 ]
             },
             "calca": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16454754269739.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Calça Moletom Cs:go Apollo Ct/tr",
@@ -1084,7 +1189,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16448642985268_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 2,
@@ -1093,7 +1199,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442415045593_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 3,
@@ -1102,7 +1209,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16680878853959_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 4,
@@ -1111,7 +1219,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16445258939668_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 5,
@@ -1120,7 +1229,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16536636716183_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 6,
@@ -1129,7 +1239,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414991970_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 7,
@@ -1138,7 +1249,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414988003_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 8,
@@ -1147,7 +1259,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098924188_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 9,
@@ -1156,7 +1269,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442414833999_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 10,
@@ -1165,7 +1279,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442414886538_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 11,
@@ -1174,7 +1289,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932515521_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     },
                     {
                         "id": 12,
@@ -1183,7 +1299,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16536636588127_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "calca"
                     },
                     {
                         "id": 13,
@@ -1192,7 +1309,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16381934962699_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "calca"
                     },
                     {
                         "id": 14,
@@ -1201,7 +1319,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16077122659374_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": false
+                        "in_stock": false,
+                        "type": "calca"
                     },
                     {
                         "id": 15,
@@ -1210,14 +1329,15 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16158410623733_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "calca"
                     }
                     
                 ]
             },
             "camiseta": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16454756291583.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Camiseta Dota2 Ancient Black",
@@ -1225,7 +1345,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451277862_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 2,
@@ -1234,7 +1355,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451253041_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 2,
                         "description": "Camiseta Cs:go Apollo Ct X Tr",
@@ -1242,7 +1365,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536627023127_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 3,
@@ -1251,7 +1375,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16587612463869_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 4,
                         "description": "Camiseta Cs:go Apollo Costume Soldier",
@@ -1259,7 +1385,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451324290_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 5,
                         "description": "Camiseta Faze Clan Clássica - Preta",
@@ -1267,7 +1395,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626704115_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 6,
@@ -1276,7 +1405,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626878861_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 7,
                         "description": "Camiseta Faze Clan Clássica - Branca",
@@ -1284,7 +1415,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536626901926_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 8,
                         "description": "Camiseta Pgdm Cuca Quente - Branca",
@@ -1292,7 +1425,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451175911_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 9,
                         "description": "Camiseta Pgdm Logo - Branca",
@@ -1300,7 +1435,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636739725_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 10,
                         "description": "Camiseta Pgdm Napolitano",
@@ -1308,7 +1445,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636769164_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 11,
@@ -1317,7 +1455,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596568041_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 12,
                         "description": "Camiseta Fallen Play Hard Go Pro",
@@ -1325,7 +1465,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586888435_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 13,
@@ -1334,7 +1475,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586883408_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 14,
@@ -1343,7 +1485,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451201853_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 15,
                         "description": "Camiseta Manga Dupla Team One Shine",
@@ -1351,7 +1495,9 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16080362691698_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true},
+                        "in_stock": true,
+                        "type": "camiseta"
+                    },
                     {
                         "id": 16,
                         "description": "Camiseta Babylook Fallen Play Like A Girl",
@@ -1359,7 +1505,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636689259_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 17,
@@ -1368,7 +1515,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451085731_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 18,
@@ -1377,7 +1525,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586843471_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 19,
@@ -1386,7 +1535,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586834435_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 20,
@@ -1395,7 +1545,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451081944_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 21,
@@ -1404,7 +1555,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626843447_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 22,
@@ -1413,7 +1565,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626843301_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 23,
@@ -1422,7 +1575,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636738795_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 24,
@@ -1431,7 +1585,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451033568_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 25,
@@ -1440,7 +1595,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536636668118_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 26,
@@ -1449,7 +1605,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389134752590_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 27,
@@ -1458,7 +1615,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389134759077_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 28,
@@ -1467,7 +1625,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612586776116_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 29,
@@ -1476,7 +1635,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389098856749_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 30,
@@ -1485,7 +1645,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442451026718_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 31,
@@ -1494,7 +1655,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451017815_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 32,
@@ -1503,7 +1665,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451018473_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 33,
@@ -1512,7 +1675,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442451007280_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 34,
@@ -1521,7 +1685,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16389098851128_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 35,
@@ -1530,7 +1695,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596468331_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 36,
@@ -1539,7 +1705,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596456522_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 37,
@@ -1548,7 +1715,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16612596435158_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 38,
@@ -1557,7 +1725,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442450957747_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     },
                     {
                         "id": 39,
@@ -1566,13 +1735,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442450933106_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "camiseta"
                     }
                 ]
             },
             "jaqueta": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370948846841.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Jaqueta Helanca Dota2 Lunar Set",
@@ -1580,7 +1750,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461565015_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 2,
@@ -1589,7 +1760,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16536636776135_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 3,
@@ -1598,7 +1770,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461457116_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 4,
@@ -1607,7 +1780,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16600562838755_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 5,
@@ -1616,7 +1790,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461221390_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 6,
@@ -1625,7 +1800,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461212491_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 7,
@@ -1634,7 +1810,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16612596488009_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 8,
@@ -1643,7 +1820,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16633538729641_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 9,
@@ -1652,7 +1830,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442461323717_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     },
                     {
                         "id": 10,
@@ -1661,13 +1840,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15895503305971_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true                    
+                        "in_stock": true,
+                        "type": "jaqueta"
                     }
                 ]
             },
             "moletom": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370949135248.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Moletom Imperial Canguru Mescla | Pré-venda: envios a partir de 30/11",
@@ -1675,7 +1855,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16660214869409_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 2,
@@ -1684,7 +1865,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461444957_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 3,
@@ -1693,7 +1875,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16597368779603_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 4,
@@ -1702,7 +1885,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16624836353563_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 5,
@@ -1711,7 +1895,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461555515_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 6,
@@ -1720,7 +1905,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461357941_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 7,
@@ -1729,7 +1915,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442461323960_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 8,
@@ -1738,7 +1925,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16370945288397_thumb.jpeg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 9,
@@ -1747,7 +1935,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486859390_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 10,
@@ -1756,7 +1945,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486979029_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 11,
@@ -1765,7 +1955,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486992900_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 12,
@@ -1774,7 +1965,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486967659_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 13,
@@ -1783,7 +1975,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389098865693_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 14,
@@ -1792,7 +1985,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596433591_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 15,
@@ -1801,7 +1995,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486856607_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 16,
@@ -1810,7 +2005,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16442486873132_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 17,
@@ -1819,7 +2015,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134906015_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 18,
@@ -1828,7 +2025,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134896156_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 19,
@@ -1837,7 +2035,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16389134892026_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 21,
@@ -1846,7 +2045,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486868491_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 21,
@@ -1855,7 +2055,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16382834945454_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 22,
@@ -1864,7 +2065,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442486844061_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 23,
@@ -1873,7 +2075,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389134804684_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 24,
@@ -1882,7 +2085,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16050302736855_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 25,
@@ -1891,7 +2095,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16033932384263_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 26,
@@ -1900,7 +2105,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894783915506_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 27,
@@ -1909,7 +2115,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16617734744755_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     },
                     {
                         "id": 28,
@@ -1918,13 +2125,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894782709613_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "moletom"
                     }
                 ]
             },
             "pulover": {
                 "banner": "",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Pulôver Cs:go Apollo Azul",
@@ -1932,7 +2140,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16611938911602_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "pulover"
                     },
                     {
                         "id": 2,
@@ -1941,13 +2150,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16611902956470_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "pulover"
                     }
                 ]
             },
             "touca": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16370949549459.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Touca Cs:go Apollo Ct X Tr Amarela E Azul",
@@ -1955,7 +2165,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16472654787362_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "touca"
                     },
                     {
                         "id": 2,
@@ -1964,13 +2175,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442487077580_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "touca"
                     }
                 ]
             },
             "uniforme": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/16504590558127.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Uniforme Imperial Holo Oficial",
@@ -1978,7 +2190,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16690680405740_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 2,
@@ -1987,7 +2200,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16468514904835_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 3,
@@ -1996,7 +2210,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16536626831367_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 4,
@@ -2005,7 +2220,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16624836435766_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 5,
@@ -2014,7 +2230,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442487059314_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 6,
@@ -2023,7 +2240,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442487049942_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 7,
@@ -2032,7 +2250,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15926614606697_thumb.jpeg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 8,
@@ -2041,7 +2260,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442487016149_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 9,
@@ -2050,7 +2270,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442558934357_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 10,
@@ -2059,7 +2280,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16442522781404_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 11,
@@ -2068,7 +2290,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16442487025566_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     },
                     {
                         "id": 12,
@@ -2077,20 +2300,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16276814786297_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "uniforme"
                     }
                 ]
-            }
-        }      
-    },
-    {
-        "category_id": 3,
-        "category_name": "acessorios",
-        "category_banner": "//static.cdnlive.com.br/uploads/602/banner/15821437972562.jpeg",
-        "category_products": {
+            },
             "bandeira": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438121295.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Bandeira Virtus.pro Premium",
@@ -2098,7 +2315,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16050240236166_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bandeira"
                     },
                     {
                         "id": 2,
@@ -2107,7 +2325,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16649018835855_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bandeira"
                     },
                     {
                         "id": 3,
@@ -2116,7 +2335,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/16255826741362_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bandeira"
                     },
                     {
                         "id": 4,
@@ -2125,13 +2345,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16224660688603_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "bandeira"
                     }
                 ]
             },
             "caneca": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438334462.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Caneca Fallen Angel",
@@ -2139,7 +2360,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854604099_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 2,
@@ -2148,7 +2370,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854614127_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 3,
@@ -2157,7 +2380,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854637327_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 4,
@@ -2166,7 +2390,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854651889_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 5,
@@ -2175,7 +2400,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15894854664154_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 6,
@@ -2184,7 +2410,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246501033_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 7,
@@ -2193,7 +2420,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246527484_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 8,
@@ -2202,7 +2430,8 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/produto/15935246584545_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     },
                     {
                         "id": 9,
@@ -2211,13 +2440,14 @@
                         "price_with_discount": "",
                         "img_src" : "//static.cdnlive.com.br/uploads/602/unidade/16050240354276_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "caneca"
                     }
                 ]
             },
             "chaveiro": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438483414.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Chaveiro Gold Dragon Ak-47 Red 17Cm",
@@ -2225,7 +2455,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098766200_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 2,
@@ -2234,7 +2465,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098761504_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 3,
@@ -2243,7 +2475,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098773055_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 4,
@@ -2252,7 +2485,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098782489_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 5,
@@ -2261,7 +2495,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098785173_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 6,
@@ -2270,7 +2505,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098796732_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 7,
@@ -2279,7 +2515,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098803622_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 8,
@@ -2288,7 +2525,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098804864_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 9,
@@ -2297,7 +2535,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246714991_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 10,
@@ -2306,7 +2545,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246847342_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 11,
@@ -2315,7 +2555,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246866309_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 12,
@@ -2324,7 +2565,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246922810_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 13,
@@ -2333,7 +2575,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246987173_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 14,
@@ -2342,7 +2585,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247168941_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 15,
@@ -2351,7 +2595,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247183349_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 16,
@@ -2360,7 +2605,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247212755_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 17,
@@ -2369,7 +2615,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247235898_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 18,
@@ -2378,7 +2625,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247302287_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 19,
@@ -2387,7 +2635,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247329362_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 20,
@@ -2396,7 +2645,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247344884_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 21,
@@ -2405,7 +2655,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247379485_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 22,
@@ -2414,7 +2665,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935247408938_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 23,
@@ -2423,7 +2675,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/15844670961484_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 24,
@@ -2432,7 +2685,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098758296_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 25,
@@ -2441,7 +2695,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098778443_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 26,
@@ -2450,7 +2705,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098776982_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 27,
@@ -2459,7 +2715,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098774870_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 28,
@@ -2468,7 +2725,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098771568_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 29,
@@ -2477,7 +2735,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098781511_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 30,
@@ -2486,7 +2745,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098786637_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 31,
@@ -2495,7 +2755,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098798269_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 32,
@@ -2504,7 +2765,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098794374_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 33,
@@ -2513,7 +2775,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098795854_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 34,
@@ -2522,7 +2785,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098807799_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 35,
@@ -2531,7 +2795,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16389098809849_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 36,
@@ -2540,7 +2805,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246744632_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 37,
@@ -2549,7 +2815,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246754720_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 38,
@@ -2558,7 +2825,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16679474664524_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 39,
@@ -2567,7 +2835,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246793388_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     },
                     {
                         "id": 40,
@@ -2576,13 +2845,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15935246812406_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "chaveiro"
                     }
                 ]
             },
             "mascara": {
                 "banner": "",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Máscara Fallen Ace",
@@ -2590,7 +2860,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612586912977_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mascara"
                     },
                     {
                         "id": 2,
@@ -2599,7 +2870,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596558019_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mascara"
                     },
                     {
                         "id": 3,
@@ -2608,7 +2880,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16612596511030_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mascara"
                     },
                     {
                         "id": 4,
@@ -2617,13 +2890,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/16442558996009_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mascara"
                     }
                 ]
             },
             "mochila": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/15821438988827.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Óculos Gamer Render Black Matte",
@@ -2631,7 +2905,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792724793_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mochila"
                     },
                     {
                         "id": 2,
@@ -2640,13 +2915,14 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792754013_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "mochila"
                     }
                 ]
             },
             "oculos": {
                 "banner": "//static.cdnlive.com.br/uploads/602/banner/15821439437775.jpeg",
-                "products": [
+                "items": [
                     {
                         "id": 1,
                         "description": "Óculos Gamer Render Turtle",
@@ -2654,7 +2930,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/produto/15894792777856_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "oculos"
                     },
                     {
                         "id": 2,
@@ -2663,7 +2940,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16608456381326_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "oculos"
                     },
                     {
                         "id": 3,
@@ -2672,7 +2950,8 @@
                         "price_with_discount": "",
                         "img_src": "//static.cdnlive.com.br/uploads/602/unidade/16608456381326_thumb.jpg",
                         "img_hover_src": "",
-                        "in_stock": true
+                        "in_stock": true,
+                        "type": "oculos"
                     }
                 ]
             }
